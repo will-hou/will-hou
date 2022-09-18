@@ -1,10 +1,16 @@
 ### Hello there! 👋
 
-I'm William (he/him) and I'm a sophomore studying data science at UC Irvine. 
-
+I’m an third-year data science student at UC Irvine with an excitement for ideas that bring people together and add value to their lives.
 
 🌎 Check out my [website!](https://will-hou.github.io)
 
+Outside of school you can find me
+* Watching Star Wars 🚀
+* Organizing hackathons like [HackUCI](https://www.hackuci.com/) and [ZotHacks](https://zothacks.com/) 💻
+* Learning to watercolor 🖌️
+* Hiking 🏔️
+* Working to develop a [data science](https://www.dataatuci.com/) community at my school 
+* Trying not do burn down the kitchen trying new recipes 🍳
 
 ### 📫 How to reach me
 
