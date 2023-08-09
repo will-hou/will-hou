@@ -1,6 +1,8 @@
 ### Hello there! 👋
 
-I’m an third-year data science student at UC Irvine with an excitement for ideas that bring people together and add value to their lives.
+I’m fourth year at UC Irvine with an excitement for ideas that bring people together and add value to their lives. Currently on leave in search of full-time work!
+
+Passionate about data and improving processes.
 
 🌎 Check out my [website!](https://will-hou.github.io)
 
