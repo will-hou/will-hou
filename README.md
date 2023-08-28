@@ -2,7 +2,7 @@
 
 Passionate about data and improving analytics workflows.
 
-🌎 Check out my [website!](https://will-hou.github.io)
+🌎 Check out my [website!](https://will-hou.github.io/personal-website/)
 
 * Watching Star Wars 🚀
 * Organizing hackathons like [HackUCI](https://www.hackuci.com/) and [ZotHacks](https://zothacks.com/) 💻
